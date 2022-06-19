@@ -12,11 +12,9 @@
     transition: opacity 0.15s;
     vertical-align: top;
   }
-
   .sub-button:hover {
     opacity: 0.8;
   }
-
   .sub-button:active {
     opacity: 0.5;
   }
@@ -37,12 +35,10 @@
     transition: background-color 0.15s, color 0.15s;
     vertical-align: top;
   }
-
   .join-button:hover {
     background-color: rgb(3, 89, 218);
     color: white;
   }
-
   .join-button:active {
     opacity: 0.7;
   }
@@ -61,9 +57,7 @@
     cursor: pointer;
     transition: box-shadow 0.15s;
     vertical-align: top;
-    
   }
-
   .tweet-button:hover {
     box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.2);
   }
